@@ -42,6 +42,7 @@ Start off by forking this repository. In your README, write a design doc to outl
 
 #### Design:
 - How will your program fit together? Make a simple free-body diagram illustrating the pieces.
+- ![IMG_B60BE696EF7C-1](https://github.com/user-attachments/assets/a77ac0c6-cfdb-43e2-b4a1-790d6ce72f33)
 
 
 #### Timeline:
