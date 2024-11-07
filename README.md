@@ -10,27 +10,48 @@ Start off by forking this repository. In your README, write a design doc to outl
 
 #### Introduction
 - What motivates your project?
+  - We love games and manga, so we decided to merge them into one project.
+  - Cool stuff -Fizzy
 
 #### Goal
 - What do you intend to achieve with this project?
+  - We want to recreate the appearance and atmosphere of BLAME! in UE5
+  - Cool stuff -Fizzy
 
 #### Inspiration/reference:
 - You must have some form of reference material for your final project. Your reference may be a research paper, a blog post, some artwork, a video, another class at Penn, etc.  
 - Include in your design doc links to and images of your reference material.
+- <img width="967" alt="Screenshot 2024-11-05 at 1 21 18 PM" src="https://github.com/user-attachments/assets/10ef9031-b920-4236-8bad-3b6b9f72df89">
+- <img width="424" alt="Screenshot 2024-11-05 at 1 18 54 PM" src="https://github.com/user-attachments/assets/e572ade1-1c14-4d54-91cd-0943a3830774">
+- <img width="403" alt="Screenshot 2024-11-05 at 1 21 06 PM" src="https://github.com/user-attachments/assets/6fd5eb3e-2a8f-4e5b-95c1-71723fc63ac0">
+- Cool stuff -Fizzy
 
 #### Specification:
-- Outline the main features of your project.
+- Outline the main features of your project:
+  - Environment in Houdini
+  - Lighting and movement in UE 5
+  - Postprocess static effects
+  - Shaders
+  - - stuff that is cool -reverse fIZZY
 
 #### Techniques:
 - What are the main technical/algorithmic tools you’ll be using? Give an overview, citing specific papers/articles.
+  - Houdini
+  - Unreal Engine 5
+  - Cool stuff -Fizzy
 
 #### Design:
 - How will your program fit together? Make a simple free-body diagram illustrating the pieces.
 
-#### Timeline:
-- Create a week-by-week set of milestones for each person in your group. Make sure you explicitly outline what each group member's duties will be.
 
+#### Timeline:
+- Create a week-by-week set of milestones for each person in your group. Make sure you explicitly outline what each group member's duties will be   
 Submit your Design doc as usual via pull request against this repository.
+  - Part 1: Design first scene
+  - Part 2: Design second scene
+  - Part 3: Polish both scenes and add postprocess
+  - Cool stiff -Fizzy
+
 ## Milestone 1: Implementation part 1 (due 11/13)
 Begin implementing your engine! Don't worry too much about polish or parameter tuning -- this week is about getting together the bulk of your generator implemented. By the end of the week, even if your visuals are crude, the majority of your generator's functionality should be done.
 
