@@ -1,13 +1,3 @@
-# Final Project!
-
-This is it! The culmination of your procedural graphics experience this semester. For your final project, we'd like to give you the time and space to explore a topic of your choosing. You may choose any topic you please, so long as you vet the topic and scope with an instructor or TA. We've provided some suggestions below. The scope of your project should be roughly 1.5 homework assignments). To help structure your time, we're breaking down the project into 4 milestones:
-
-## Project planning: Design Doc (due 11/6)
-Before submitting your first milestone, _you must get your project idea and scope approved by Rachel, Adam or a TA._
-
-### Design Doc
-Start off by forking this repository. In your README, write a design doc to outline your project goals and implementation plan. It must include the following sections:
-
 #### Introduction
 - What motivates your project?
   - We love games and manga, so we decided to merge them into one project.
@@ -69,3 +59,5 @@ We completed a very detailed model with countless components, finished all the s
 
 ## Post mortem
 Our project took longer and was harder than expected due to complications with importing houdini assets into UE 5. We also ran into other bugs with the shaders that took some time to fix. We also planned to do multiple environments, but we only ended up doing one due to the time constraint. Overall, it still looks better than we thought it would by the end.
+
+Presentation: https://docs.google.com/presentation/d/1II2-8XqpZL6pYmFS8OX6cCYfF_ErH7AqSopiRrCjQBg/edit?usp=sharing
